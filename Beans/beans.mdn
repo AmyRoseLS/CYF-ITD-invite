@@ -1,1 +1,4 @@
 Testing how to delete files from branch but not main.
+(This file will not exist in the branch "absolutelyNoBeans)
+
+I used: rm -r \Beans
